@@ -8,22 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Postdoctoral Research Fellow in the
-[Weidenbaum Center on the Economy, Government, and Public Policy](https://wc.wustl.edu/) 
-and [Department of Political Science](https://polisci.wustl.edu/) at
-[Washington University in St. Louis](https://wustl.edu/). I am also an
-affiliated researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-lab. I specialize in International Relations and Political Methodology. I earned
-my Ph.D in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu/) and my
-B.A. in Political Science from [Haverford College](https://www.haverford.edu/).
+I am a 5th year PhD candidate in the MBits research group, part of the [Computer Engineering Laboratory (CELAB)](https://www.eecs.umich.edu/celab/){:target="\_blank"} at the University of Michigan. I am advised by [Prof. Reetuparna Das](http://web.eecs.umich.edu/~reetudas/){:target="\_blank"}. I also work closely with [Prof. David Blaauw](https://blaauw.engin.umich.edu/){:target="\_blank"} and [Prof. Satish Narayanasamy](http://web.eecs.umich.edu/~nsatish/){:target="\_blank"}.
 
-My work has been [published](publications) or is forthcoming in
-*International Studies Quarterly*, *Political Science Research and Methods*,
-and *The Journal of Open Source Software*. My [research](research) explores the
-causes and consequences of political violence using a broad variety of methods
-such as latent variable models, geospatial analysis, and big data. While I
-primarily focus on civil conflict, I also examine contentious political
-phenomena including terrorism and economic statecraft. I have
-[teaching](teaching) experience in both international relations and quantitative
-methodology.
+I am broadly interested in computer architecture and genomics. My work focuses on string matching acceleration. In my work, I have leveraged in-memory computing techniques to [accelerate]({{ site.url }}{% link /files/pdf/ca.pdf %}) and [parallelize]({{ site.url }}{% link /files/pdf/pap.pdf %}) automata-based string matching. 
+
+Currently, I am working towards developing [customized]({{ site.url }}{% link /files/pdf/genax.pdf %}) computing systems for common [genomics pipelines](https://software.broadinstitute.org/gatk/best-practices/workflow){:target="\_blank"}.  
+
+Prior to graduate school, I enjoyed working at Nvidia Graphics, Bangalore, designing the memory controller architecture for the [Tegra Xavier SoC](https://wccftech.com/nvidia-drive-xavier-soc-detailed/){:target="\_blank"}. I received my Bachelors degree in Electrical and Electronics from [BITS-Pilani, Pilani Campus](https://www.bits-pilani.ac.in/Pilani/index.aspx){:target="\_blank"}. 
+
+I'm grateful to be supported by the [Rackham International Students Fellowship](https://rackham.umich.edu/funding/funding-types/rackham-international-student-fellowship-and-the-chia-lun-lo-fellowship/){:target="\_blank"} and the [UM Precision Health Scholar Award](https://precisionhealth.umich.edu/news-features/features/michigan-precision-health-2018-scholars-awards-announced/){:target="\_blank"}.
